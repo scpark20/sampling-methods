@@ -30,3 +30,14 @@ jupyter notebook
 ```
 
 These are historical learning notebooks with Python 3.6.3 recorded in their metadata. Review the [implementation notes](docs/NOTES.md) before rerunning: they identify a removed NumPy argument, normalization details, and corrections needed in the Metropolis–Hastings example. The documentation update preserves the original code and saved figures.
+
+<details>
+<summary>Full project notes</summary>
+
+<!-- preserved-project-notes:start -->
+# sampling-methods
+sampling methods implementation from PRML
+
+<!-- preserved-project-notes:end -->
+
+</details>
